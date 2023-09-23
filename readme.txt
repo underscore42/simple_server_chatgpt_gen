@@ -6,4 +6,6 @@ Interesting.
 
 Probably need to test it more.
 
+Of course... generated code... license issues?
+
 https://chat.openai.com/share/fc98badb-f48d-49ff-8936-e4d496b1b2e6
