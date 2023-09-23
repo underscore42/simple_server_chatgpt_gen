@@ -4,7 +4,7 @@ Had to fix one line due to compile issues. Just playing with chatgpt
 
 Interesting.
 
-Probably need to test it more.
+Probably need to test it more. Doesn't feel efficient for deltas and patches. Does it do as it claims.
 
 Of course... generated code... license issues?
 
